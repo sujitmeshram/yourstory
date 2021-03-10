@@ -1,4 +1,4 @@
-#YOURSTORY
+YOURSTORY
 
 • Built application with the help of MongoDB(Atlas), Express, React, NodeJS
 • YourStory application is used to share stories of writers from their life
